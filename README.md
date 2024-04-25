@@ -1,4 +1,4 @@
-# FML-final-project
+# MLF-final-project
 
 1)Introduction:
 •	This analysis explores the famous Iris dataset using Support Vector Machine (SVM) classification. Introduced by Ronald Fisher in 1936, the Iris dataset has become a quintessential example in pattern recognition and machine learning. It comprises 150 instances of iris flowers from three species: Iris setosa, Iris versicolor, and Iris virginica. For each flower, four crucial measurements are recorded: sepal length, sepal width, petal length, and petal width. Our objective is to construct an SVM model capable of accurately predicting the species based on these quantitative attributes. SVMs are powerful supervised learning algorithms that excel at classification tasks by constructing optimal hyperplanes that maximize the margin between classes in a high-dimensional space. By training an SVM on the Iris dataset, we aim to uncover the intricate patterns that distinguish the species, enabling reliable classification of new, unseen iris specimens.
